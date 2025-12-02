@@ -1,6 +1,6 @@
 itsdangerous==1.1.0
 MarkupSafe==1.1.1
-Werkzeug==3.0.6
+Werkzeug==3.1.4
 numpy>=1.9.2
 scipy>=0.15.1
 scikit-learn>=0.18
